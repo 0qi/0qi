@@ -4,7 +4,7 @@
 
 ```javascript
 const ricter = {
-    languages: ["Javascript", "Python", "Java", "PHP"],
+    languages: ["Python", "Java", "PHP", "SQL", "Javascript", "HTML", "CSS"],
     technologies: {
         backEnd: {
             js: ["Node"],
@@ -15,7 +15,7 @@ const ricter = {
         },
         devOps: ["AWS", "Docker", "Nginx", "Git", "npm"],
         databases: ["MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "arduino", "platformio"]
+        misc: ["Firebase", "selenium", "open-cv", "php", "arduino", "platformio"]
     },
     intrests: ["cybersecurity", "IoT", "web development", "AI"]
 };
