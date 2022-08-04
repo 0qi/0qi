@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on IoT devices, such as esp8266 and esp32.
+- 🔭 I’m currently working with IoT devices, such as esp8266 and esp32.
 - 🌱 I’m currently learning open-cv
 
 
